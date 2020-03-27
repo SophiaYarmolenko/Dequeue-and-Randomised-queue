@@ -1,4 +1,5 @@
 //package com.company;
+//Libraries that can only be used (course requirement)
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 

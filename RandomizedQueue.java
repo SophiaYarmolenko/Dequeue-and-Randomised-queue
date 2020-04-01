@@ -1,4 +1,5 @@
 //package com.company;
+//import java.util.Scanner;
 import edu.princeton.cs.algs4.StdRandom;
 import java.util.NoSuchElementException;
 import java.util.Iterator;
